@@ -5,9 +5,5 @@
 
 
 
-***
-
-
-
 ### **Keywords: Geographic Information System, GIS, Economics**
 ### Comments Welcome!
